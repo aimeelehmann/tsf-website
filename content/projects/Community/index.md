@@ -4,7 +4,7 @@ image = "img/banner.jpg"
 thumb = "img/banner.jpg"
 +++
 
-The Soil Factory Community embodies generosity, solidarity, support, creativity, and justice. We come together to connect, be surprised, encounter, and expand our worlds; to build hope and soil;, to work against the destruction of the world, isolation, and despair.
+The Soil Factory Community embodies generosity, solidarity, support, creativity, and justice. We come together to connect, be surprised, encounter, and expand our worlds; to build hope and soil; to work against the destruction of the world, isolation, and despair.
 
 We want to foster a friendly environment of listening, empowerment, non-judgmental openness and joy, to collaborate in a spirit of flow and curiosity.
 
